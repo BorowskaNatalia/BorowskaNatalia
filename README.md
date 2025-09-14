@@ -44,7 +44,7 @@
 | Projekt | Język/Technologia | Krótki opis |
 |--------|--------------------|-------------|
 | [The-quest-for-a-jar-of-dirt](https://github.com/BorowskaNatalia/The-quest-for-a-jar-of-dirt) | Unity, C# | Gra platformowa |
-| [nfz-app](https://github.com/BorowskaNatalia/nfz-app) | PHP&Laravel | Aplikacja związana z NFZ |
+| [nfz-app](https://github.com/BorowskaNatalia/nfz-app) | PHP&Laravel | Wyszukiwanie najbliżyszych terminów NFZ |
 | [TEG_Final_Project](https://github.com/mikolajsadownik/TEG_Final_Project) | Python | Doradca prawny |
 | [mini-data-platform-BorowskaNatalia](https://github.com/pjwstkbd25/mini-data-platform-BorowskaNatalia) | Docker, Python | Mini platforma przetwarzania danych |
 
