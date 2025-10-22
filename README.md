@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Cześć, tutaj Natalia! <br/><a href="https://github.com/BorowskaNatalia">(@BorowskaNatalia)</a>!</h1>
+<h1 align="center">Cześć, tutaj Natalia! <br/>
 <p align="center">
   Informatyka PJATK - Magisterka spec. Data Science
 </p>
